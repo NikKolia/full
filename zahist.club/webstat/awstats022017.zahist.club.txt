@@ -1,0 +1,269 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.zahist.club.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1991                
+POS_TIME 2675                
+POS_VISITOR 6478                
+POS_DAY 6682                
+POS_DOMAIN 3425                
+POS_LOGIN 3658                
+POS_ROBOT 3813                
+POS_WORMS 4015                
+POS_EMAILSENDER 4146                
+POS_EMAILRECEIVER 4289                
+POS_SESSION 6848                
+POS_SIDER 7043                
+POS_FILETYPES 4424                
+POS_DOWNLOADS 4659                
+POS_OS 4925                
+POS_BROWSER 5002                
+POS_SCREENSIZE 5135                
+POS_UNKNOWNREFERER 5209                
+POS_UNKNOWNREFERERBROWSER 5296                
+POS_ORIGIN 5378                
+POS_SEREFERRALS 5515                
+POS_PAGEREFS 5659                
+POS_SEARCHWORDS 5807                
+POS_KEYWORDS 5959                
+POS_MISC 2338                
+POS_ERRORS 6018                
+POS_CLUSTER 3514                
+POS_SIDER_404 6130                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170301000444 788 190774 11631090539662
+FirstTime 20170225104534
+LastTime 20170228215909
+LastUpdate 20170301040841 788 0 787 0 0
+TotalVisits 17                  
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 24 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 85 22658 11 13 4352451
+1 22 212 20092067 9 11 600603
+2 3 6 237421 0 0 0
+3 4 4 17483 0 0 0
+4 3 92 440279 16 22 148306
+5 0 0 0 0 0 0
+6 0 0 0 17 37 2456578
+7 0 0 0 11 23 1520767
+8 52 274 22718485 16 31 481859
+9 51 335 31221325 27 59 1035944
+10 35 163 15333578 21 49 1454323
+11 10 134 4870734 13 25 1306615
+12 1 1 29966 9 23 8541934
+13 9 203 165171 4 18 2591417
+14 0 0 0 7 17 4719160
+15 0 0 0 28 43 8161345
+16 3 4 16219 17 33 2740346
+17 46 211 18172044 74 88 1320604
+18 0 0 0 14 22 377197
+19 0 0 0 28 43 18007381
+20 0 0 0 10 11 47940
+21 29 75 5456707 26 27 58857
+22 8 90 5501750 18 18 77702
+23 10 80 12614751 45 55 8387646
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 290 1969 136910638
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+yandex 478 68194798 20170228232434 0
+mail\.ru 1 7196 20170225124934 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+eot 2 56006 0 0
+css 95 339527 0 0
+png 1194 121854904 0 0
+woff 6 327260 0 0
+html 143 523663 0 0
+js 118 992806 0 0
+jpg 264 12070503 0 0
+Unknown 139 745711 0 0
+gif 8 258 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 5
+/img/manual/g1_manual_eng.pdf 2 0 14379860
+/img/manual/vcare_manual_rus.pdf 2 0 8613208
+/img/manual/g1_manual_ru.pdf 2 0 1101514
+/img/manual/vcare_manual_eng.pdf 1 0 15131816
+/img/manual/g50_manual_eng.pdf 1 0 6411913
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+macosx 111
+linuxandroid 112
+win7 1746
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 5
+chrome56.0.2924.87 884
+mozilla 436
+safari 111
+chrome27.0.1453.90 1
+firefox51.0 537
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13 13
+From1 0 0
+From2 0 0
+From3 0 0
+From4 277 1956
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 157 69629
+404 5 13114
+301 3 1374
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 1
+/notfound 5 http://zahist.club/product
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3
+91.195.91.181 147 1085 62760312 20170228215909
+46.119.10.175 142 883 74120360 20170228134649
+204.85.191.30 1 1 29966 20170225124225
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20170225 100 631 39247723 6
+20170226 42 422 20839126 4
+20170227 39 228 15070581 4
+20170228 109 688 61753208 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 2
+5mn-15mn 3
+30s-2mn 1
+15mn-30mn 2
+0s-30s 5
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/admin/ 126 421405 1 0
+/section 61 279050 4 4
+/product 59 372921 6 6
+/ 17 102258 6 5
+/posts 11 66221 0 0
+/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff 6 327260 0 0
+/contacts 5 19148 0 2
+/delivery 2 5546 0 0
+/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot 2 56006 0 0
+/cart 1 2825 0 0
+END_SIDER
