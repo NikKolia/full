@@ -1,6 +1,6 @@
 ﻿<?php
 class Config {
-	public $secret = "DukkyvfdgbSJLFfdG";
+	public $secret = "DukkyvfdgbfgdG";
 	public $sitename = "zahist.club";
 	public $address = "http://zahist.club/";
 	public $address_admin = "http://zahist.club/admin/";
@@ -14,7 +14,7 @@ class Config {
 	public $admname = "Роман Бондаренко";
 	public $admemail = "info@zahist.club";
 	public $adm_login = "User";
-	public $adm_password = "0cc8czdgbvdrgbdrgfgn05b2c0";
+	public $adm_password = "0cc8czdgbvfghdrgfgn05b2c0";
 	
 	public $count_on_page = 35;
 	public $count_info = 3;
