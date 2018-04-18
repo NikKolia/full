@@ -1,20 +1,20 @@
 ﻿<?php
 class Config {
-	public $secret = "DukkyvfdgbfgdG";
+	public $secret = "DukkyvfdgbfththG";
 	public $sitename = "zahist.club";
 	public $address = "http://zahist.club/";
 	public $address_admin = "http://zahist.club/admin/";
 	public $db_host = "localhost";
 	public $db_user = "root";
 	public $db_password = "";
-	public $db_name = "zah";
-	public $db_prefix = "d_";
+	public $db_name = "zahsdf";
+	public $db_prefix = "ddfg_";
 	public $sym_query = "{?}";
 	
 	public $admname = "Роман Бондаренко";
 	public $admemail = "info@zahist.club";
 	public $adm_login = "User";
-	public $adm_password = "0cc8czdgbvfghdrgfgn05b2c0";
+	public $adm_password = "0cc8cfgthfghngfn05b2c0";
 	
 	public $count_on_page = 35;
 	public $count_info = 3;
