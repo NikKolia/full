@@ -1,4 +1,4 @@
 http://zahist.club/
 
 Табличная вёрстка. 
-PHP+MySQL
+PHP+MySQL+готовые решения на JS.
